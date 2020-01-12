@@ -19,5 +19,3 @@ the methods or you will not be able to compile the tests. You could also test
 them yourself using the main function, in which case you do not need
 dummy definitions for unused methods.
 
-**[Instructions](https://tim.aalto.fi/view/elec-a7151/materials/exercise-instructions#doing-the-exercises)**
-on how to run and test your programs locally.
