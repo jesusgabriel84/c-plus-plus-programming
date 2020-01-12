@@ -31,7 +31,7 @@ And the following constructor:
 
 **Compile and run:**
 ```bash
-#In the folder src/containers/vector_iterators
+#In the folder src/containers/pokemon
 make
 cd src
 ./main

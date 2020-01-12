@@ -21,7 +21,7 @@ dummy definitions for unused methods.
 
 **Compile and run:**
 ```bash
-#In the folder src/containers/vector_iterators
+#In the folder src/containers/library
 make
 cd src
 ./main

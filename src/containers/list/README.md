@@ -28,7 +28,7 @@ done.
 
 **Compile and run:**
 ```bash
-#In the folder src/containers/vector_iterators
+#In the folder src/containers/list
 make
 cd src
 ./main

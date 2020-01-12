@@ -26,7 +26,7 @@ is followed by one space. Each row must be printed on separate line.
 
 **Compile and run:**
 ```bash
-#In the folder src/containers/vector_iterators
+#In the folder src/containers/matrix
 make
 cd src
 ./main
