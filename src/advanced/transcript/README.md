@@ -1,5 +1,5 @@
 **Objective:** Trying lambdas in action and more practice with algorithms and 
-iterators and trying.
+iterators.
 
 **Transcript** is a structure that holds the course records for a
   particular student. For each student there is a list of course/grade
@@ -9,7 +9,7 @@ iterators and trying.
 
 Implement first the functions **Add** and **RemoveById** that will add and 
 remove entries from the registry. RemoveById should remove all entries with specific
-student ID. Hint: **[remove_if](http://www.cplusplus.com/reference/algorithm/remove_if/)**.
+student ID. This function is useful: **[remove_if](http://www.cplusplus.com/reference/algorithm/remove_if/)**.
 
 Then implement functions **FindTranscript** and **FindCourseResults**:
 
@@ -18,5 +18,11 @@ Then implement functions **FindTranscript** and **FindCourseResults**:
 - **FindCourseResults** should return a list of student ID and grade pairs
     corresponding to a course name.
 
-These functions will not require many lines of code if you use
-algorithms efficiently.
+
+**Compile and run:**
+```bash
+#In the folder src/advanced/transcript
+make
+cd src
+./main
+```

@@ -7,10 +7,17 @@ interface: **DiagonalPrinter**, which outputs text in a diagonal format, and
 **StandardPrinter**, which just prints the text normally.
 
 Printing is implemented overloading the *function call operator*
-(`operator()`). See [this link] for examples how it is used. Again,
-see the detailed descriptions in the header files.
+(`operator()`). See [this link] for examples how it is used.
 
 [this link]: http://www.tutorialspoint.com/cplusplus/function_call_operator_overloading.htm
 
-In addition, there is **Printers** container for different kind of printers, 
-which you need to implement.
+In addition, there is **Printers** container for different kind of printers.
+
+
+**Compile and run:**
+```bash
+#In the folder src/advanced/strprinter
+make
+cd src
+./main
+```
