@@ -32,7 +32,7 @@ Following the programs I wrote for this repository, a brief description about th
 	Implement three functions that operate on integer vectors in the
 	following manner:
 
-		* **ReadVector** that will read numbers from user and stores them as
+		**ReadVector** that will read numbers from user and stores them as
 		integer vector that is returned by the function. The function stops
 		reading when a non-numeric value is given by the user.
 
@@ -49,12 +49,13 @@ Following the programs I wrote for this repository, a brief description about th
 		processed. With input `1 2 3 4 !` the output will be `5 5`, followed
 		by newline.
 
-	```bash
-	#In the folder src/containers/vector_iterators
-	make
-	cd src
-	./main
-	```
+		Compile and run:
+		```bash
+		#In the folder src/containers/vector_iterators
+		make
+		cd src
+		./main
+		```
 
 
 * [**Classes**](src/classes): A more detailed look into **C++** classes and object-oriented programming mechanisms, such as inheritance and polymorphism. In addition, we observe how operator overloading works –and how it can be used– for example, together with input and output streams.
