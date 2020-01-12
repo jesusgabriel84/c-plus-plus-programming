@@ -18,4 +18,11 @@ space, followed by one of the above and ended with a newline, e.g.:
 In addition, you will need to implement class **Aviary**, which stores the birds, 
 in the *aviary.hpp* file and its member functions in the *aviary.cpp* file.
 
-You will find more instructions in the header files.
+
+**Compile and run:**
+```bash
+#In the folder src/containers/vector_iterators
+make
+cd src
+./main
+```

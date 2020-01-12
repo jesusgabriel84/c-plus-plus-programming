@@ -24,9 +24,9 @@ In this section we look in more detailed into C++ classes and object-oriented pr
 ### Code
 Following the programs I wrote for this repository, click on each link for a detailed description about them and how to compile/run:
 
-* [**Vector iterators**](vector_iterators): Program to use iterators in vectors.
+* [**Plynomial**](polynomial): Program to learn to overload various operators.
 
-* [**List**](list): Understanding the basic handling of list, and using input stream as a source.
+* [**Birds**](bird): Understanding the abstract classes, inheritance and little bit of operator overloading.
 
 * [**Matrix rotation**](matrix): Use nested vectors for a two-dimensional matrix.
 
