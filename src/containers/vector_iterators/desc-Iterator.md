@@ -22,5 +22,3 @@ by newline.
 
 Use iterators for walking through the vectors.
 
-**[Instructions](https://tim.aalto.fi/view/elec-a7151/materials/exercise-instructions#doing-the-exercises)**
-on how to run and test your programs locally.
