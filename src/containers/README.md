@@ -27,7 +27,7 @@ Following the programs I wrote for this repository, a brief description about th
 
 * [**Vector iterators**](src/containers/vector_iterators/src): 
 
-	* **Objective:** Learn to use iterators with vectors.
+	**Objective:** Learn to use iterators with vectors.
 
 	Implement three functions that operate on integer vectors in the
 	following manner:
@@ -50,7 +50,7 @@ Following the programs I wrote for this repository, a brief description about th
 		by newline.
 
 		Compile and run:
-		
+
 		```bash
 		#In the folder src/containers/vector_iterators
 		make
