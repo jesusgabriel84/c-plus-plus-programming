@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Transcript",
+			"path": "transcript"
+		},
+		{
+			"name": "StringPrinter",
+			"path": "strprinter"
+		},
+		{
+			"name": "CustomException",
+			"path": "custom_exception"
+		}
+	]
+}

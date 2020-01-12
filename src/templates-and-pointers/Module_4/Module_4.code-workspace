@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Dragons",
+			"path": "dragons"
+		},
+		{
+			"name": "ToString",
+			"path": "tostring"
+		},
+		{
+			"name": "Triple",
+			"path": "triple"
+		},
+		{
+			"name": "RestrictredPointer",
+			"path": "restr_ptr"
+		}
+	]
+}

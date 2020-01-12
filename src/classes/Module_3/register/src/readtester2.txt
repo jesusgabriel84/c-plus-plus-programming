@@ -1,0 +1,6 @@
+B;SINKED;Francesco Schettino;Costa Concordia;8.2;103000
+K;MAG 1C;Paul Daniels;Bentley;650;0
+C;MAG 1C;Paul Daniels;Bentley;650;0
+D;OH-LVI;Finnair;Airbus 350;67.2;900
+A;OH-LVI;Finnair;Airbus 350;67.2;900
+Z;asdsad;sadsad;sadsad;0;0
