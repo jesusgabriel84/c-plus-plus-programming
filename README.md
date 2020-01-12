@@ -13,5 +13,6 @@ Following the codes I wrote for this repository and a brief description about th
 * [**Advanced topics**](src/advanced): In this section we walk through miscellaneous topics that can be useful sometimes such as lambdas –a mechanism for implementing functionality for temporary use inside program code–, and exceptions –a way of handling unexpected situations, such as errors.
 
 ### Built with
-* **C++**
+* C++
+* cmake
 * Compiler version: ``gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0``

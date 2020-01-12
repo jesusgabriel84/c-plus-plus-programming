@@ -10,3 +10,12 @@ Poly object in a `std::map<int, int>` of pairs of exponent and multiplier:
 The comments in file *poly.hpp* provide more detailed
 instructions of the functions you will need to implement. You
 will only need to modify *poly.cpp*.
+
+
+**Compile and run:**
+```bash
+#In the folder src/containers/vector_iterators
+make
+cd src
+./main
+```
