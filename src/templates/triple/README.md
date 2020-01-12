@@ -17,7 +17,7 @@ detail in the *triple.hpp* file.
 
 **Compile and run:**
 ```bash
-#In the folder src/classes/register
+#In the folder src/templates/triple
 make
 cd src
 ./main

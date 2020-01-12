@@ -15,7 +15,7 @@ must not allow copying.
 
 **Compile and run:**
 ```bash
-#In the folder src/classes/register
+#In the folder src/templates/dragons
 make
 cd src
 ./main

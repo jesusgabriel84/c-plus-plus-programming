@@ -41,7 +41,7 @@ that situation.
 
 **Compile and run:**
 ```bash
-#In the folder src/classes/register
+#In the folder src/templates/restr_ptr
 make
 cd src
 ./main

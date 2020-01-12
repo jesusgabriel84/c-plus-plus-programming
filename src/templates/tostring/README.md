@@ -26,7 +26,7 @@ like the following (spaces are significant):
 
 **Compile and run:**
 ```bash
-#In the folder src/classes/register
+#In the folder src/templates/tostring
 make
 cd src
 ./main
