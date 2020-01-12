@@ -51,12 +51,12 @@ Following the programs I wrote for this repository, a brief description about th
 
 	Compile and run:
 
-		```bash
-		#In the folder src/containers/vector_iterators
-		make
-		cd src
-		./main
-		```
+```bash
+	#In the folder src/containers/vector_iterators
+	make
+	cd src
+	./main
+```
 
 
 * [**Classes**](src/classes): A more detailed look into **C++** classes and object-oriented programming mechanisms, such as inheritance and polymorphism. In addition, we observe how operator overloading works –and how it can be used– for example, together with input and output streams.
