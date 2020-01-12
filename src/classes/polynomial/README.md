@@ -14,7 +14,7 @@ will only need to modify *poly.cpp*.
 
 **Compile and run:**
 ```bash
-#In the folder src/containers/vector_iterators
+#In the folder src/classes/polynomial
 make
 cd src
 ./main

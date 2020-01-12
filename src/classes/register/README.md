@@ -36,7 +36,7 @@ these 3 types of vehicle classes inherit from the Vehicle class.
 
 **Compile and run:**
 ```bash
-#In the folder src/containers/vector_iterators
+#In the folder src/classes/register
 make
 cd src
 ./main

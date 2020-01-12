@@ -21,7 +21,7 @@ in the *aviary.hpp* file and its member functions in the *aviary.cpp* file.
 
 **Compile and run:**
 ```bash
-#In the folder src/containers/vector_iterators
+#In the folder src/classes/bird
 make
 cd src
 ./main
