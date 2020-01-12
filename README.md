@@ -1,2 +1,2 @@
-# c-plus-plus-programming
-Codes exploring C++
+# C++ programming
+Invented in 1970, C++ remains relevant nowadays! In this repository I intend to explore the most important parts of the C++ fundamentals, like working with classes and object-oriented programming mechanisms, such as inheritance and polymorphism, templates, operators overloading, I/O, containers and smart pointers. Along with a briefly look at some advanced topics like lambda expressions, exception handling and custom exceptions.
