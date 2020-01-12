@@ -25,7 +25,7 @@ For a more detailed information please refer to the official **C++** documentati
 ### Code
 Following the programs I wrote for this repository, a brief description about them and how to compile/run:
 
-* [**Vector iterators**](src/containers/vector_iterators): Program to use iterators in vectors.
+* [**Vector iterators**](vector_iterators): Program to use iterators in vectors.
 
 
 * [**Classes**](src/classes): A more detailed look into **C++** classes and object-oriented programming mechanisms, such as inheritance and polymorphism. In addition, we observe how operator overloading works –and how it can be used– for example, together with input and output streams.
