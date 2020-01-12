@@ -23,7 +23,11 @@ like the following (spaces are significant):
 
 `{ foo, bar, baz }`
 
-*If this task feels difficult to understand at first, you could start with
-a version that uses only e.g. vector container. Then modify it to use
-templates in place of specific container type. Note that e.g. begin() and
-end() functions are available for all sequential container types.*
+
+**Compile and run:**
+```bash
+#In the folder src/classes/register
+make
+cd src
+./main
+```

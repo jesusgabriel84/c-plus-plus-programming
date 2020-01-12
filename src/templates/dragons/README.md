@@ -8,9 +8,15 @@ dragons:  **FantasyDragon**, **ChineseDragon**, and **MagicDragon**. The
 classes are defined in the .hpp files,
 and the implementations should be in the .cpp files.
 
-In addition, you will need to implement **DragonCave** (in
+In addition, **DragonCave** (in
 *dragon_cave.hpp/cpp*) that stores the different kinds of dragons. DragonCave 
 must not allow copying.
 
-The header files give more detailed instructions about the functions
-you will need to implement.
+
+**Compile and run:**
+```bash
+#In the folder src/classes/register
+make
+cd src
+./main
+```

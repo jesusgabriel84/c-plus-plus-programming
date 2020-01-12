@@ -38,5 +38,11 @@ that situation.
  - *GetRefCount()* should return the number of RestrictedPtrs that contain the
  same raw pointer.
 
-You have got the artistic freedom to implement the reference counter for
-the RestrictedPtr class yourself.
+
+**Compile and run:**
+```bash
+#In the folder src/classes/register
+make
+cd src
+./main
+```
