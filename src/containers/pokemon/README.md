@@ -28,16 +28,11 @@ And the following constructor:
   * **PokemonCollection(c1, c2)**: merges the contents of the two
     collections. Duplicate elements must be removed.
 
-The grading weight is 1 for 
-**Add**, **Remove**, **Print**, **SortByName** and **SortById**, and 2
-for the merge constructor. Especially for the last three functions it is
-recommended that you familiarize yourself with the algorithms and
-functions available for list container (such as **sort** and
-**unique**).
 
-**Note:** You need full points from the Add and Print methods for the rest of 
-the tests to be run. In addition, the sort methods need full points for the 
-constructor to be tested.
-
-**[Instructions](https://tim.aalto.fi/view/elec-a7151/materials/exercise-instructions#doing-the-exercises)**
-on how to run and test your programs locally.
+**Compile and run:**
+```bash
+#In the folder src/containers/vector_iterators
+make
+cd src
+./main
+```
