@@ -28,19 +28,4 @@ Following the programs I wrote for this repository, click on each link for a det
 
 * [**Birds**](bird): Understanding the abstract classes, inheritance and little bit of operator overloading.
 
-* [**Matrix rotation**](matrix): Use nested vectors for a two-dimensional matrix.
-
-* [**Library**](library): Use nested vectors for a two-dimensional matrix.
-
-* [**Pokemon**](pokemon): Practice use of algorithms together with a list container.
-
-
-
-
-**Compile and run:**
-```bash
-#In the folder src/containers/vector_iterators
-make
-cd src
-./main
-```
+* [**Register**](register): Practicing I/O together with class inheritance and polymorphism.

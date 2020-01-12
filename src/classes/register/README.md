@@ -32,5 +32,12 @@ These vehicle types also share common member variables, such as register
 number and owner. These are implemented already in the Vehicle class. So
 these 3 types of vehicle classes inherit from the Vehicle class.
 
-You need to implement the *Register*, *Vehicle*, *Car*, *Boat* and *Aircraft* 
-classes. More information in the *.hpp* files.
+
+
+**Compile and run:**
+```bash
+#In the folder src/containers/vector_iterators
+make
+cd src
+./main
+```
