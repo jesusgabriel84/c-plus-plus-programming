@@ -1,0 +1,8 @@
+B;SINKED;Francesco Schettino;Costa Concordia;8.2;103000
+C;MAG 1C;Paul Daniels;Bentley;650;0
+A;OH-LVI;Finnair;Airbus 350;67.2;900
+A;G_BOAC;British Airways;Concorde SST;80.8;2000
+C;YUU-123;Teemu Teekkari;Volkswagen Polo;800;1
+A;RU-123;Russian Federation;MiG-21;80.8;1600
+C;EES-321;Nikola;Tesla;600;0
+B;FI123;Pekka Purjehtija;Mariella;0;1.8
