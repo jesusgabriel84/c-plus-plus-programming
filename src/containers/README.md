@@ -27,6 +27,8 @@ Following the programs I wrote for this repository, a brief description about th
 
 * [**Vector iterators**](vector_iterators): Program to use iterators in vectors.
 
+* [**List**](list): Understanding the basic handling of list, and using input stream as a source.
+
 
 * [**Classes**](src/classes): A more detailed look into **C++** classes and object-oriented programming mechanisms, such as inheritance and polymorphism. In addition, we observe how operator overloading works –and how it can be used– for example, together with input and output streams.
 

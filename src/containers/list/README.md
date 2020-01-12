@@ -24,8 +24,12 @@ done.
   order and remove duplicate strings. See [list] reference for further
   information.
 
-[list]: https://en.cppreference.com/w/cpp/container/list
+[Documentation on list]: https://en.cppreference.com/w/cpp/container/list
 
-**[Instructions
-](https://tim.aalto.fi/view/elec-a7151/materials/exercise-instructions#doing-the-exercises)**
-on how to run and test your programs locally.
+**Compile and run:**
+```bash
+#In the folder src/containers/vector_iterators
+make
+cd src
+./main
+```

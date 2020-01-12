@@ -24,8 +24,8 @@ Use iterators for walking through the vectors.
 
 **Compile and run:**
 ```bash
-	#In the folder src/containers/vector_iterators
-	make
-	cd src
-	./main
+#In the folder src/containers/vector_iterators
+make
+cd src
+./main
 ```
