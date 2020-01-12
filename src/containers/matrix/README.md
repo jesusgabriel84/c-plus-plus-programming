@@ -8,7 +8,7 @@ accessed using the *subscript operator*, and when two nested vectors
 are used for two-dimensional matrix, you need to provide two indexes,
 for both dimensions respectively.
 
-Implement the following functions:
+Following a description of the functions:
 
 **ReadMatrix(n)** that will read a square matrix from user (i.e.,
 standard input). Argument *n* (int) gives the width and height of the
@@ -23,5 +23,11 @@ but create a new one.
 **Print(m)** that will output Matrix *m* to the screen. Each integer
 is followed by one space. Each row must be printed on separate line.
 
-**[Instructions](https://tim.aalto.fi/view/elec-a7151/materials/exercise-instructions#doing-the-exercises)**
-on how to run and test your programs locally.
+
+**Compile and run:**
+```bash
+#In the folder src/containers/vector_iterators
+make
+cd src
+./main
+```
