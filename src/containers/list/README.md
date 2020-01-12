@@ -24,7 +24,7 @@ done.
   order and remove duplicate strings. See [list] reference for further
   information.
 
-[Documentation on list]: https://en.cppreference.com/w/cpp/container/list
+[list]: https://en.cppreference.com/w/cpp/container/list
 
 **Compile and run:**
 ```bash
